@@ -8,7 +8,7 @@
 - 💻 Computer Engineering student.
 - 🧠 I am interested in problem solving.
 - 🌱 I love learning fromother people with theaim of improvingpersonally andprofessionally.
-- 📚 I enjoy reading about personal growth, and technology.
+- 📚 I enjoy reading about personal growth and technology.
 
 ### My Skills Include
 <h4 align="left"> Languages, Frameworks & Libraries </h4>
