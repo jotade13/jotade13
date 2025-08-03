@@ -10,7 +10,7 @@
 - 🌱 I love learning fromother people with theaim of improvingpersonally andprofessionally.
 - 📚 I enjoy reading about personal growth and technology.
 
-### My Skills Include
+### 💪 My Skills Include
 <h4 align="left"> Languages, Frameworks & Libraries </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
