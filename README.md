@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel">
+  <img src="https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </span>
 
 <h4> Databases </h4>
