@@ -7,7 +7,7 @@
 *Jotade13 (Full Stack Developer)*
 - 💻 Computer Engineering student.
 - 🧠 I am interested in problem solving.
-- 🌱 I love learning fromother people with theaim of improvingpersonally and professionally.
+- 🌱 I love learning from other people with the aim of improving personally and professionally.
 - 📚 I enjoy reading about personal growth and technology.
 
 ### 💪 My Skills Include
